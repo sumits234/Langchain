@@ -1,4 +1,4 @@
-# Langchain Chatbot with HuggingFaceEmbeddings and FAISS
+# Langchain  with HuggingFaceEmbeddings and FAISS
 
 This repository demonstrates how to build a simple chatbot that:
 1. Scrapes data from a target website.
