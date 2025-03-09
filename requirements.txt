@@ -1,0 +1,12 @@
+langchain
+langchain-community
+openai
+flask
+flask-restful
+python-dotenv
+faiss-cpu
+tiktoken
+beautifulsoup4
+sentence-transformers
+langchain-openai
+langchain-huggingface
